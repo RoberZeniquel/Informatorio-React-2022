@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.CardComponent {
+  margin: 15px;
+}
+
+.ButtonLink {
+  display: flex;
+  text-decoration: none;
+}
